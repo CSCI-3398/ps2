@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.9189795918367345 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phoneme" 
+        xmin = 0 
+        xmax = 5.9189795918367345 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4847267095382324 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4847267095382324 
+            xmax = 0.8581766120525566 
+            text = "i" 
+        intervals [3]:
+            xmin = 0.8581766120525566 
+            xmax = 1.1632483634022863 
+            text = "" 
+        intervals [4]:
+            xmin = 1.1632483634022863 
+            xmax = 1.4578003991882322 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.4578003991882322 
+            xmax = 1.9522270306860698 
+            text = "" 
+        intervals [6]:
+            xmin = 1.9522270306860698 
+            xmax = 2.141581910834178 
+            text = "i" 
+        intervals [7]:
+            xmin = 2.141581910834178 
+            xmax = 2.804323991352556 
+            text = "" 
+        intervals [8]:
+            xmin = 2.804323991352556 
+            xmax = 3.062057022665259 
+            text = "i" 
+        intervals [9]:
+            xmin = 3.062057022665259 
+            xmax = 3.2724513339409347 
+            text = "" 
+        intervals [10]:
+            xmin = 3.2724513339409347 
+            xmax = 3.4197273518339073 
+            text = "i" 
+        intervals [11]:
+            xmin = 3.4197273518339073 
+            xmax = 3.977272276714448 
+            text = "" 
+        intervals [12]:
+            xmin = 3.977272276714448 
+            xmax = 4.26130459693661 
+            text = "i" 
+        intervals [13]:
+            xmin = 4.26130459693661 
+            xmax = 4.855668526290394 
+            text = "" 
+        intervals [14]:
+            xmin = 4.855668526290394 
+            xmax = 4.934566393018772 
+            text = "i" 
+        intervals [15]:
+            xmin = 4.934566393018772 
+            xmax = 5.087102268693637 
+            text = "" 
+        intervals [16]:
+            xmin = 5.087102268693637 
+            xmax = 5.23437828658661 
+            text = "i" 
+        intervals [17]:
+            xmin = 5.23437828658661 
+            xmax = 5.418473308952826 
+            text = "" 
+        intervals [18]:
+            xmin = 5.418473308952826 
+            xmax = 5.528930322372555 
+            text = "i" 
+        intervals [19]:
+            xmin = 5.528930322372555 
+            xmax = 5.9189795918367345 
+            text = "" 
